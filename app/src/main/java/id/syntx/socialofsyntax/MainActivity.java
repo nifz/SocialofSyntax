@@ -341,6 +341,11 @@ public class MainActivity extends AppCompatActivity implements OneSignal.Notific
         MainActivity.activityResumed();
     }
 
+    @Override
+    public void onBackPressed() {
+        finish();
+    }
+
     private static void activityResumed() {
         activityVisible = 2;
     }
