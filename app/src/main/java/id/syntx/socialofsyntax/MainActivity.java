@@ -343,7 +343,12 @@ public class MainActivity extends AppCompatActivity implements OneSignal.Notific
 
     @Override
     public void onBackPressed() {
-        finish();
+
+        if (webVIew.canGoBack()) {
+            webVIew.goBack();
+        } else {
+            finish();
+        }
     }
 
     private static void activityResumed() {
