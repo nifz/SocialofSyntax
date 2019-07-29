@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Social of Syntax</string>
+    <string name="app_url">https://social.syntx.id/</string>
+    <string name="asset_statements" translatable="false">[{ \"include\": \"https://social.syntx.id/.well-known/assetlinks.json\" }]</string>
+</resources>

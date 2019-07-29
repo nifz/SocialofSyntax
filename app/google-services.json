@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1071006590318",
+    "firebase_url": "https://notify-social-of-syntax.firebaseio.com",
+    "project_id": "notify-social-of-syntax",
+    "storage_bucket": "notify-social-of-syntax.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071006590318:android:c54823366027b789",
+        "android_client_info": {
+          "package_name": "id.syntx.socialofsyntax"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071006590318-qm0jajepkonqrc3phdem85cmodmouiuc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQDCVre4WfL3_pMb1l4G5BCV15ELobtUQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071006590318-qm0jajepkonqrc3phdem85cmodmouiuc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
