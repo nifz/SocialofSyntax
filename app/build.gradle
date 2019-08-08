@@ -24,7 +24,7 @@ android {
         versionName "Fixed notification"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         manifestPlaceholders = [
-                onesignal_app_id               : '68d99ff2-43bd-493c-a15f-d81d219b3308',
+                onesignal_app_id               : 'YOU APP ID ONESIGNAL',
                 // Project number pulled from dashboard, local value is ignored.
                 onesignal_google_project_number: 'REMOTE'
         ]
